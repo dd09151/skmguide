@@ -1,14 +1,14 @@
 {
 "items": [
 {
-"title": "Flutter Development",
+"title": "SKM",
 "description": "Learn how to develop beautiful and responsive apps using Flutter.",
-"imageUrl": "https://skm9966.github.io/sample/Aungkyawthu.png"
+"imageUrl": "https://dd09151.github.io/skmguide/skmlogo.jpg"
 },
 {
-"title": "Understanding Dart",
+"title": "BooGyi",
 "description": "Dart is a programming language optimized for building apps on multiple platforms.",
-"imageUrl": "https://example.com/images/understanding_dart.jpg"
+"imageUrl": "https://dd09151.github.io/skmguide/bogyi.png"
 },
 {
 "title": "State Management in Flutter",
